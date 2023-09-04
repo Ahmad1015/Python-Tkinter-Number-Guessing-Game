@@ -30,6 +30,7 @@ Python 3.x
 Tkinter (included in most Python installations)
 
 ## Screenshots
+![Screenshot 2023-09-04 202107](https://github.com/Ahmad1015/Python-Tkinter-Number-Guessing-Game/assets/129595472/29c66c9e-a16e-4fe2-9190-07c7c3c6e4eb)
 
 
 ## Contributing
