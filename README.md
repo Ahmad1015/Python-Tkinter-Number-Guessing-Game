@@ -21,10 +21,10 @@ This is a simple guessing game implemented in Python using the Tkinter library. 
 ## Getting Started
 
 To run the game, make sure you have Python installed on your system. You can run the game by executing the `guessing_game.py` file.
-
 ```bash
-python guessing_game.py
-'''
+  python guessing_game.py
+```
+
 ## Dependencies
 Python 3.x
 Tkinter (included in most Python installations)
