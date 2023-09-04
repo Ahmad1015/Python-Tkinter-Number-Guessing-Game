@@ -30,16 +30,16 @@ Python 3.x
 Tkinter (included in most Python installations)
 
 ## Screenshots
-Starting The Game:
+Starting The Game:<br>
 ![Screenshot 2023-09-04 202107](https://github.com/Ahmad1015/Python-Tkinter-Number-Guessing-Game/assets/129595472/29c66c9e-a16e-4fe2-9190-07c7c3c6e4eb)
 
 Guessing Wrong:<br>
 ![Screenshot-2](https://github.com/Ahmad1015/Python-Tkinter-Number-Guessing-Game/assets/129595472/f6297fdd-0bc8-413c-a373-90f260eb1c6f)
 
-Pressing Getting Help:
+Pressing Getting Help:<br>
 ![Screenshot-3](https://github.com/Ahmad1015/Python-Tkinter-Number-Guessing-Game/assets/129595472/71c6b1e9-a0ef-4413-a5d0-90a1564bc2c6)
 
-Guessing Right:
+Guessing Right:<br>
 ![Screenshot-4](https://github.com/Ahmad1015/Python-Tkinter-Number-Guessing-Game/assets/129595472/9b5a807a-1cdb-48db-a414-b9aeed9c7565)
 
 
